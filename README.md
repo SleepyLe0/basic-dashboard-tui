@@ -56,18 +56,6 @@ Press `q` to exit.
 - Custom UI themes (light/dark mode toggle)
 - Enhanced keyboard navigation for better user experience
 
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
 ---
 
 Made with ❤️ using TypeScript & Bun.

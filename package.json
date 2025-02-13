@@ -4,13 +4,18 @@
   "type": "module",
   "devDependencies": {
     "@types/blessed": "^0.1.25",
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/os-utils": "^0.0.4",
+    "@types/systeminformation": "^3.54.1"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.11.0"
+    "blessed-contrib": "^4.11.0",
+    "os": "^0.1.2",
+    "os-utils": "^0.0.14",
+    "systeminformation": "^5.25.11"
   }
 }
